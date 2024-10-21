@@ -69,10 +69,10 @@
     "bignumber.js": "^8.1.1",
     "canonical-weth": "^1.4.0",
     "es6-promisify": "^6.0.1",
-    "ethers": "^4.0.33",
+    "ethers": "^5.0.0",
     "openzeppelin-solidity": "2.1.3",
     "query-string": "^6.9.0",
-    "web3": "1.2.1",
+    "web3": "4.0.1",
     "ws": "^7.2.0"
   },
   "devDependencies": {
